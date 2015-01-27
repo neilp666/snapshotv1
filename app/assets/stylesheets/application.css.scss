@@ -13,3 +13,34 @@
  
  @import "bootstrap-sprockets";
  @import "bootstrap";
+
+
+
+ .container-full {
+ 	background: url('landscape.jpg');
+ 	background-size: cover;
+ 	background-position: center;
+ 	background-attachment: fixed;
+ }
+
+
+.container-fluid { background-color: #286090;
+
+
+.navbar-brand {
+	color: white;
+	font-size: 25px;
+	font-weight: 100;
+	font-family: arial;
+}
+
+}
+
+
+a {
+	color: white;
+	font-size: 16px;
+}
+ 
+
+
